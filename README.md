@@ -1,4 +1,4 @@
-# 🚀 DSA Interview Preparation
+#  DSA Interview Preparation
 
 Welcome to my **DSA Interview Preparation** repository!
 
